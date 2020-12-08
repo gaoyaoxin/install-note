@@ -1,5 +1,9 @@
 # install-note
 
+https://www.piwheels.org/simple/pillow/Pillow-3.2.0-cp35-cp35m-linux_armv7l.whl
+https://www.piwheels.org/simple/numpy/numpy-1.10.2-cp35-cp35m-linux_armv7l.whl
+https://www.piwheels.org/simple/scipy/scipy-0.18.0-cp35-cp35m-linux_armv7l.whl
+
 cmd (admin)
 demo (changes download source): pip install --upgrade pip -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
  -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
